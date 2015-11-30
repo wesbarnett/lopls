@@ -33,6 +33,7 @@ If you use the L-OPLS parameters be sure to read and cite the following in
 addition to any OPLS papers:
 
 * [S. W. I. Siu, K. Pluhackova, and R. A. Bockmann. J. Chem. Theory Comp., 8, 4 (2012)](http://dx.doi.org/10.1021/ct200908r)
+* [K. Pluhackova, H. Morhenn, L. Lautner, W. Lohstroh, K. S. Nemkovski, T. Unruh, and R. A. Bockmann J. Phys. Chem. B. (2015 ](http://dx.doi.org/10.1021/acs.jpcb.5b08569) 
 
 ## Disclaimer
 
